@@ -5,7 +5,7 @@ draft = true
 id = "GOUDA_WHEEL"
 image = "/images/gouda.jpg"
 name = "Gouda Wheel"
-price = 299.95
+price = "200.00"
 product_url = "http://snipcart-hugo-forestery.netlify.com"
 
 +++
